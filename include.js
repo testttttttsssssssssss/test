@@ -18,6 +18,4 @@ $(document).ready(function(){
 		$(".content").html("同學：「你的隨身碟？我沒有印象耶…昨天選修課你有沒有用到？我朋友說你們昨天要存設計圖」");
 		$(".img").css("opacity", "0.5");
 	});
-
-
 });
